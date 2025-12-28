@@ -67,8 +67,8 @@ Bu depo, İş Paketi 2 kapsamında geliştirilen yapay zeka sistemlerinin teknik
 
 | Dosya Adı | Açıklama | İçerik |
 |-----------|----------|--------|
-| `ai-bot-mvp-teknik-rapor.md` | MVP Bot Yazılımı Teknik Raporu | Tüm AI sistemlerinin kod örnekleriyle birlikte adım adım implementasyon rehberi. C++ sınıfları, Blueprint yapıları, Python RL server kodu içerir. |
-| `demo-ortami-tasarim-rehberi.md` | Hakem Demo Ortamı Tasarım Rehberi | TÜBİTAK hakem ziyareti için demo ortamının kurulumu, UI tasarımı, senaryo akışları ve sunum rehberi. |
+| `Technical_Report.md` | MVP Bot Yazılımı Teknik Raporu | Tüm AI sistemlerinin kod örnekleriyle birlikte adım adım implementasyon rehberi. C++ sınıfları, Blueprint yapıları, Python RL server kodu içerir. |
+| `IzleyiciHakem_icin_demo.md` | Hakem Demo Ortamı Tasarım Rehberi | TÜBİTAK hakem ziyareti için demo ortamının kurulumu, UI tasarımı, senaryo akışları ve sunum rehberi. |
 | `oyun-yapay-zekasi-literatur-taramasi-tr.md` | Akademik Literatür Taraması | 2020-2025 yılları arasında yayınlanmış 18 hakemli makalenin APA formatında alıntıları ve özetleri. |
 
 ### 📁 Dosya Yapısı
@@ -98,7 +98,7 @@ Bu depo, İş Paketi 2 kapsamında geliştirilen yapay zeka sistemlerinin teknik
 │       └── Kurulum Adımları
 │
 └── 📂 Araştırma
-    └── readme.md
+    └── oyun-yapay-zekasi-literatur-taramasi-tr.md
         ├── Utility AI Makaleleri (3 adet)
         ├── Davranış Ağaçları Makaleleri (3 adet)
         ├── Güçlendirmeli Öğrenme Makaleleri (3 adet)
