@@ -8,7 +8,7 @@
 | **Kuruluş** | MB Oyun Yazılım ve Pazarlama A.Ş. |
 | **Destek Programı** | TÜBİTAK 1501 - Sanayi Ar-Ge Projeleri Destekleme Programı |
 | **İş Paketi** | İP-2: Yapay Zeka, Karakter ve Bot Geliştirme |
-| **Süre** | 01.09.2025 - 30.11.2025 (90 gün) |
+| **Süre** | 90 gün |
 | **Bilimsel Danışman** | Prof. Dr. Turgay Bilgin (Bursa Teknik Üniversitesi) |
 
 ---
@@ -59,26 +59,7 @@ Oyundaki botların zorluk seviyesini oyuncunun performansına göre dinamik olar
 
 ---
 
-## Deney, Test ve Analizler
-
-| Deney/Test Adı | Yapılma Nedeni | Yapılacağı Yer |
-|----------------|----------------|----------------|
-| **Davranış Ağacı Simülasyonları** | Botların farklı oyun senaryolarında davranış değişikliklerini test etmek ve AI karar süreçlerini doğrulamak | Firmada |
-| **Botların Çevresel Engel Tanıma Testleri** | Botların oyun içindeki dinamik engelleri nasıl algıladığı ve çevreye nasıl adapte olduğu ölçülecektir | Firmada |
-| **Yapay Zeka Optimizasyon Testleri** | AI sistemlerinin CPU ve GPU üzerindeki performans yükünü test etmek ve sistemin donanım kaynaklarını verimli kullanmasını sağlamak | Firmada |
-
----
-
-## Kilometre Taşları
-
-| Ara Çıktı | Beklenen Gerçekleşme Tarihi | Kullanılacağı İş Paketi |
-|-----------|----------------------------|------------------------|
-| Yapay Zeka Destekli Bot Yazılımı | 28.11.2025 | İP-3, İP-4, İP-5 |
-| Karakter Tasarımları | 28.11.2025 | İP-3, İP-4, İP-5 |
-
----
-
-## Bu Depodaki Dokümanlar
+## Bu Repodaki Dokümanlar
 
 Bu depo, İş Paketi 2 kapsamında geliştirilen yapay zeka sistemlerinin teknik dokümantasyonunu içermektedir.
 
