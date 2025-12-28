@@ -2,8 +2,8 @@
 
 **Proje:** Yapay Zeka Destekli Çok Oyunculu Coop TPS Oyunu  
 **Doküman Versiyonu:** 1.0  
-**Tarih:** 2025  
-**Hazırlayan:** Ar-Ge Danışmanlık Ekibi
+**Tarih:** 28.12.2025  
+**Hazırlayan:** ttbilgin
 
 ---
 
@@ -3648,10 +3648,6 @@ Bu doküman, TÜBİTAK destekli projenin İş Paketi 2 kapsamındaki "Yapay Zeka
 2. Debug araçlarını erken aşamada aktif edin, problem tespitini kolaylaştırır.
 3. TÜBİTAK hakem demosu için görselleştirme kritiktir.
 4. Kod kalitesi ve dokümantasyon TÜBİTAK raporlaması için önemlidir.
-
-**İletişim:**
-
-Teknik sorular için Ar-Ge danışmanlık ekibiyle iletişime geçin.
 
 ---
 
