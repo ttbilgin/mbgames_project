@@ -238,11 +238,13 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 - İstemci-sunucu bağlantısı tamamen çalışır durumda
 - Steam entegrasyonu aktif
 - Backend mikro servis mimarisi kuruldu
-- AI mimari tasarımı tamamlandı
+- AI mimari tasarım taslağı oluşturuldu
 - Proje takvimi düzgün ilerliyor
 
-**Gelecek Dönem Odak (2025/2: Ocak-Mart 2026):**
+**Gelecek Dönem Planlanan Çalışmalar (2026/1: Ocak-Haziran 2026):**
 - İP-2 tamamlanması (AI, Karakter, Bot sistemleri)
 - İP-3'e geçiş (Oyun Mekaniği ve Senaryo)
-
+...
+...
+  
 ---
