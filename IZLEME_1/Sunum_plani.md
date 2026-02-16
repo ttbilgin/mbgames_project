@@ -126,7 +126,7 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 
 ---
 
-## **SLAYT 10: İP-2 - YAPAY ZEKA, KARAKTER VE BOT GELİŞTİRME**
+## **SLAYT 8: İP-2 - YAPAY ZEKA, KARAKTER VE BOT GELİŞTİRME**
 
 **Dönem İçinde Başlatılan Faaliyetler (01.12.2025 - 31.12.2025):**
 
@@ -157,7 +157,7 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 
 ---
 
-## **SLAYT 12: DÖNEM ADAM-AY KARŞILAŞTIRMA TABLOSU**
+## **SLAYT 9: DÖNEM ADAM-AY KARŞILAŞTIRMA TABLOSU**
 
 | İş Paketi No | Öngörülen Adam-Ay | Gerçekleşen Adam-Ay | Birikimli Adam-Ay | Sapma | Gerekçe |
 |--------------|-------------------|---------------------|-------------------|-------|---------|
@@ -169,12 +169,64 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 
 ---
 
-## **SLAYT 13: İŞ PAKETİ GERÇEKLEŞME TABLOSU**
+## **SLAYT 10: İŞ PAKETİ GERÇEKLEŞME TABLOSU**
 
 | İş Paketi No | Planlanan Başlama-Bitiş | Gerçekleşen Başlama-Bitiş | Planlanan Süre (Ay) | Gerçekleşen Süre (Ay) | Sapma | Gerekçesi | Dönem İçinde Çalışılan Süre | Bu Dönem Hariç Gerçekleşme (%) | Bu Dönem Dahil Gerçekleşme (%) |
 |--------------|------------------------|---------------------------|--------------------|-----------------------|-------|-----------|---------------------------|-------------------------------|-------------------------------|
 | İP-1 | 01.10.2025 - 28.11.2025 | 01.10.2025 - 28.11.2025 | 2 | 2 | - | İş paketi planlandığı gibi tamamlandı | 2 | 0 | **100** |
 | İP-2 | 01.12.2025 - 28.02.2026 | 01.12.2025 - (Devam) | 3 | 1 | - | İş paketi devam ediyor | 1 | 0 | **25** |
+
+---
+
+## **SLAYT 11: PROJE DEĞİŞİKLİK BİLDİRİMİ**
+
+**Kapsam ve Süre Değişikliği:**
+- [Değişiklik varsa açıklama]
+- [Yoksa: "Değişiklik bulunmamaktadır"]
+
+**Kaynak/Bütçe Değişikliği:**
+
+**Personel Giderleri:**
+- Proje destek karar yazısında personel giderleri en fazla [X] adam-ay oranında destek kapsamına alınmıştır
+- Mali raporlarımızda bu doğrultuda karar yazısına uygun şekilde hazırlanmıştır
+
+**Personel Değişiklikleri:**
+- [Eski Personel Adı] işten ayrılmış olup yerine [Yeni Personel Adı] projeye dahil edilmiştir
+- Personel CV'leri ekte paylaşılmıştır
+
+---
+
+## **SLAYT 12: PROJE PLANINA UYGUNLUK - ALET/TEÇHİZAT**
+
+**Alet/Teçhizat/Yazılım Alımları:**
+
+| Sıra | M013 Formundaki Sıra No | Alet/Teçhizat/Yazılım Adı | Öngörülen | Gerçekleşen | Durum | Sapmalar |
+|------|------------------------|---------------------------|-----------|-------------|-------|----------|
+| 1 | 1 | Unreal Engine Lisans | X | X | ✓ | - |
+| 2 | 2 | Geliştirme İş İstasyonu | X | X | ✓ | - |
+| 3 | 3 | [Diğer ekipmanlar] | X | X | [Durum] | [Açıklama] |
+
+---
+
+## **SLAYT 13: AR-GE KAZANIMLARI**
+
+**Projede Gerçekleşen Ar-Ge Kazanımları:**
+
+**Teknolojik Gelişmeler:**
+1. **Üç Katmanlı AI Mimarisi**
+   - Modüler ve ölçeklenebilir yapı
+   - Gerçek zamanlı karar verme algoritmaları
+   - Adaptive difficulty sistemi
+
+2. **Anti-Cheat Altyapısı**
+   - Sunucu tarafı doğrulama mekanizmaları
+   - Anomali tespit algoritmaları
+   - Davranış analizi ML modelleri
+
+3. **Network Optimizasyonu**
+   - Prediction ve reconciliation sistemleri
+   - Bandwidth optimizasyonu
+   - Lag compensation teknikleri
 
 ---
 
@@ -207,7 +259,7 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 
 ---
 
-## **SLAYT 19: FİNANSAL DURUM ÖZETİ**
+## **SLAYT 16: FİNANSAL DURUM ÖZETİ**
 
 ### Bütçe Kullanımı (2025/1. Dönem - Tamamlandı)
 
@@ -223,7 +275,7 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 
 ---
 
-## **SLAYT 20: PROJE YÖNETİMİ VE RİSK YÖNETİMİ**
+## **SLAYT 17: PROJE YÖNETİMİ VE RİSK YÖNETİMİ**
 
 **Proje Yönetimi Uygulamaları:**
 - **Risk Yönetimi**: Risk matrisi ve önleyici tedbirler
@@ -237,7 +289,7 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 
 ---
 
-## **SLAYT 21: SONUÇ**
+## **SLAYT 18: SONUÇ**
 
 **Dönem Özeti:**
 - ✓ Proje 01.10.2025'te başarıyla başlatıldı
@@ -260,7 +312,7 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 ...
 
 
-## **SLAYT 22: TEŞEKKÜR / İLETİŞİM**
+## **SLAYT 19: TEŞEKKÜR / İLETİŞİM**
 
 **TEŞEKKÜRLER**
 
