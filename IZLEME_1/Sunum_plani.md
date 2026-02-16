@@ -79,9 +79,8 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 [Proje başlangıç tarihi: 01.10.2025 - Mevcut dönem kırmızı çerçeve ile vurgulu]
 
 **Dönem Bilgileri:**
-- **Dönem 1 (2025/1)**: 01.10.2025 - 31.12.2025 - **MEVCUT DÖNEM** ✓
-- **Dönem 2 (2025/2)**: 01.01.2026 - 31.03.2026
-- **Dönem 3 (2026/1)**: 01.04.2026 - 30.06.2026
+- **Dönem 1 (2025/2)**: 01.10.2025 - 31.12.2025 - **MEVCUT DÖNEM** ✓
+- **Dönem 2 (2026/1)**: 01.01.2026 - 30.06.2026
 - **Dönem 4 (2026/2)**: 01.07.2026 - 30.09.2026
 
 **Toplam Proje Süresi:** 12 ay
