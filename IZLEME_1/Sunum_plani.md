@@ -90,7 +90,7 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 
 ---
 
-## **SLAYT 6: 2025/1. DÖNEM - İŞ PAKETLERİ**
+## **SLAYT 6: 2025/2. DÖNEM - İŞ PAKETLERİ**
 
 **Bu Dönemde Aktif İş Paketleri:**
 
