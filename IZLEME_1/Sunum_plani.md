@@ -1,9 +1,9 @@
 
-# TÜBİTAK 1501 Projesi - 2025/1. Dönem İzleme Sunumu
+# TÜBİTAK 1501 Projesi - 2025/2. Dönem İzleme Sunumu
 ## "Yapay Zeka Destekli Çok Oyunculu Coop (İşbirlikçi) TPS Oyununun Özelleştirilmiş Unreal Engine Oyun Motorunda Prototipinin Geliştirilmesi"
 
 **Proje No:** 170055  
-**Dönem:** 2025/1 (01.10.2025 - 31.12.2025)  
+**Dönem:** 2025/2 (01.10.2025 - 31.12.2025)  
 **Firma:** MB Oyun Yazılım ve Pazarlama A.Ş.  
 
 
