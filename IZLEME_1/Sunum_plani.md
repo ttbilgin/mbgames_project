@@ -223,6 +223,20 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 
 ---
 
+## **SLAYT 20: PROJE YÖNETİMİ VE RİSK YÖNETİMİ**
+
+**Proje Yönetimi Uygulamaları:**
+- **Risk Yönetimi**: Risk matrisi ve önleyici tedbirler
+- **Kaynak Yönetimi**: İnsan kaynağı ve ekipman planlaması
+- **Bilgi Yönetimi**: Dokümantasyon ve versiyon kontrolü (Git)
+
+**Dönem İçinde Yapılan Yönetim Çalışmaları:**
+- Haftalık toplantılar ve sprint planlaması
+- Risk takibi ve güncelleme
+- Akademik danışman koordinasyonu
+
+---
+
 ## **SLAYT 21: SONUÇ**
 
 **Dönem Özeti:**
@@ -244,6 +258,20 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 - İP-2 tamamlanması (AI, Karakter, Bot sistemleri)
 - İP-3'e geçiş (Oyun Mekaniği ve Senaryo)
 ...
+
+
+## **SLAYT 22: TEŞEKKÜR / İLETİŞİM**
+
+**TEŞEKKÜRLER**
+
+**İletişim Bilgileri:**
+- **Firma**: MB Oyun Yazılım ve Pazarlama A.Ş.
+- **Proje Yürütücüsü**: [İsim Soyisim]
+- **E-posta**: [email@madbyte.com]
+- **Telefon**: [+90 XXX XXX XX XX]
+- **Web**: www.madbyte.com
+
+[MB Oyun Yazılım Logosu]
 ...
   
 ---
