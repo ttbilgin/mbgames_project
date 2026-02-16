@@ -1,5 +1,3 @@
-Haklısınız, özür dilerim. Proje önerisindeki gerçek iş paketlerini ve başlangıç tarihinin 01.10.2025'e ötelendiğini dikkate alarak güncelleme yapayım.
-
 ---
 
 # TÜBİTAK 1501 Projesi - 2025/1. Dönem İzleme Sunumu
@@ -8,7 +6,7 @@ Haklısınız, özür dilerim. Proje önerisindeki gerçek iş paketlerini ve ba
 **Proje No:** 170055  
 **Dönem:** 2025/1 (01.10.2025 - 31.12.2025)  
 **Firma:** MB Oyun Yazılım ve Pazarlama A.Ş.  
-**Akademik Danışman:** Prof. Dr. Turgay Tugay Bilgin (Bursa Teknik Üniversitesi)
+
 
 ---
 
@@ -105,7 +103,7 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 
 ## **SLAYT 7: İP-1 - OYUN TEMELİ VE ALTYAPI GELİŞTİRME**
 
-**Dönem İçinde Gerçekleştirilen Faaliyetler:**
+**Dönem İçinde Gerçekleştirilen Faaliyetler (01.10.2025 - 28.11.2025):**
 
 **Tamamlanan Çalışmalar (%100):**
 - ✓ Temel Oyun Geliştirme (Base Development)
@@ -113,110 +111,51 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 - ✓ Eşleştirme Sistemi - Steam Entegrasyonu (Match Making System)
 - ✓ İstemci-Sunucu Replikasyonu (Client-Server Replication - Listen Server)
 - ✓ Kod Ayrıştırma (Code Separation)
+- ✓ UI/UX Geliştirme
+- ✓ Oyuncu Sisteminin UML Hazırlanması (Nickname, Level, Rank, Ban vb.)
+- ✓ Backend Entegrasyonu Temeli
+- ✓ Playfab Başlangıcı (Playfab Kickoff)
+- ✓ CMS Entegrasyonu
+- ✓ Liderlik Tablosu Sistemi (Leaderboard System)
 
-**Devam Eden Çalışmalar (%[X]):**
-- ⏳ UI/UX Geliştirme
-- ⏳ Oyuncu Sisteminin UML Hazırlanması
-- ⏳ Backend Entegrasyonu Temeli
-- ⏳ Playfab Başlangıcı
-- ⏳ CMS Entegrasyonu
-- ⏳ Liderlik Tablosu Sistemi
-
-| **ÇIKTIQuadro** | **Durum** | **Tamamlanma Tarihi** |
+| **ÇIKTI** | **Durum** | **Tamamlanma Tarihi** |
 |-----------|---------|---------------------|
 | İstemci-Sunucu Temel Bağlantısı | ✓ Tamamlandı | 28.11.2025 |
-| Backend Mimarisi Temel Yapısı | ⏳ Devam ediyor | 31.12.2025 (Plan) |
-| UI ve Backend Bağlantısı | ⏳ Devam ediyor | 31.12.2025 (Plan) |
+| Backend Mimarisi Temel Yapısı | ✓ Tamamlandı | 28.11.2025 |
+| UI ve Backend Bağlantısı | ✓ Tamamlandı | 28.11.2025 |
 
----
-
-## **SLAYT 8: İP-1 - TEKNİK DETAYLAR**
-
-**Kullanılan Yöntemler ve Teknolojiler:**
-
-**Mikro Servis Mimarisi:**
-- Backend sistemleri ölçeklenebilir yapıda tasarlandı
-- Farklı hizmetler bağımsız çalışacak şekilde kurgulandı
-- (Oyuncu verileri, eşleştirme, skor tabloları vb.)
-
-**Ağ Yapısı Optimizasyonu:**
-- Listen Server modeli temel alındı
-- Düşük gecikme süresi hedefi: **30 ping**
-- Yük dengeleme mekanizmaları planlandı
-
-**UI ve Backend Bağlantıları:**
-- API Gateway modeli üzerinden entegrasyon
-- Güvenli ve hızlı veri alışverişi
-
-**Modüler Yazılım Yaklaşımı:**
-- Bağımsız bileşenler (independent modules)
-- Gelecek güncellemelere açık yapı
-
----
-
-## **SLAYT 9: İP-1 - EKRAN GÖRÜNTÜLERİ**
-
-**Geliştirme Sürecinden Görseller:**
-
-[Ekran görüntüleri:]
-- Unreal Engine proje yapısı
-- Backend mimari diyagramı
-- İlk UI/UX tasarım mockup'ları
-- Steam entegrasyon test ekranı
-- Network test senaryoları
+**İş Paketi Durumu:** %100 Tamamlandı ✓
 
 ---
 
 ## **SLAYT 10: İP-2 - YAPAY ZEKA, KARAKTER VE BOT GELİŞTİRME**
 
-**Dönem İçinde Başlatılan Faaliyetler:**
+**Dönem İçinde Başlatılan Faaliyetler (01.12.2025 - 31.12.2025):**
 
-**Aralık 2025'te Başlatılan Çalışmalar:**
-- Karakter Kontrol Mekanizması tasarımı
-- Karakter Animasyon Ağacı planlaması
-- Sınıf Özellikleri Tanımlaması (Class Specs)
-- Bot Karakter Animasyon Ağacı ön çalışması
-- Bot Davranış Ağacı (Behavior Tree) tasarımı
+**Aralık 2025'te Başlatılan ve Devam Eden Çalışmalar:**
+- ⏳ Karakter Kontrol Mekanizması (Character Controller) - Başlatıldı
+- ⏳ Karakter Animasyon Ağacı (Character Animation Tree) - Tasarım aşaması
+- ⏳ Sınıf Özellikleri Tanımlaması (Class Specs Definition) - Devam ediyor
+- ⏳ Bot Karakter Animasyon Ağacı - Ön çalışma
+- ⏳ Bot Davranış Ağacı (Behavior Tree) - Tasarım başladı
+- ⏳ Bot Dövüş Mekanikleri (AI Enemy System) - Konsept aşaması
+- ⏳ Navigasyon Sistemi Geliştirme - Planlama aşaması
 
-**Ocak 2026'ya Ertelenen Çalışmalar:**
-- Bot Dövüş Mekanikleri detaylandırması
-- Navigasyon Sistemi implementasyonu
-- Zorluk Seviyeleri algoritmaları
+**Şubat 2026'ya Ertelenen/Devam Edecek Çalışmalar:**
+- Zorluk Seviyeleri (T1, T2, T3 düşman tipleri)
+- Yapay Zeka Hedef Belirleme
+- Karakter Konsept Tasarımı
+- Karakter Modelleme
+- Karakter Rigging
+- Karakter Animasyonları
 
 | **ÇIKTI** | **Durum** | **Hedef Tarih** |
 |-----------|---------|----------------|
-| AI Davranış Sistemi Modeli | ⏳ Başlangıç aşaması | 28.02.2026 |
-| Karakter Tasarımları | ⏳ Konsept aşaması | 28.02.2026 |
-| Demo Bot Versiyonu | ⏳ Planlama aşaması | 28.02.2026 |
+| AI Davranış Sistemi Modeli | ⏳ Başlangıç aşaması (%25) | 28.02.2026 |
+| Karakter Tasarımları | ⏳ Konsept aşaması (%20) | 28.02.2026 |
+| Demo Bot Versiyonu | ⏳ Planlama aşaması (%15) | 28.02.2026 |
 
----
-
-## **SLAYT 11: İP-2 - YAPAY ZEKA MİMARİSİ**
-
-**Planlanan 3 Katmanlı AI Yapısı:**
-
-**T1 Düşmanlar (Tier 1) - Basit AI:**
-- Sabit davranış kalıpları
-- Belirlenen devriye yolları
-- Basit algılama mekanizmaları
-- Sonlu durum makineleri (FSM)
-
-**T2 Düşmanlar (Tier 2) - Orta Seviye AI:**
-- Gelişmiş algılama
-- Dinamik siper alma
-- Takım koordinasyonu
-- Behavior Tree destekli
-
-**T3 Düşmanlar (Tier 3) - Gelişmiş AI:**
-- Adaptif yapay zeka
-- Oyuncu tarzı analizi
-- Dinamik strateji geliştirme
-- Neural Networks (Planlı)
-
-**Dönem İçindeki İlerleme:**
-- T1 ve T2 için konsept tasarımları tamamlandı
-- Behavior Tree yapısı kurgulandı
-- T3 için araştırma devam ediyor
+**İş Paketi Durumu:** %25 Tamamlandı (İlk ay çalışmaları)
 
 ---
 
@@ -225,10 +164,10 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 | İş Paketi No | Öngörülen Adam-Ay | Gerçekleşen Adam-Ay | Birikimli Adam-Ay | Sapma | Gerekçe |
 |--------------|-------------------|---------------------|-------------------|-------|---------|
 | İP-1 | 4,80 | 4,80 | 4,80 | - | İş paketi planlandığı gibi tamamlandı |
-| İP-2 | 5,94 | 1,48 | 1,48 | - | İş paketi Aralık'ta başladı, normal ilerleme |
+| İP-2 | 5,94 | 1,48 | 1,48 | - | İş paketi Aralık'ta başladı, 1 ay çalışıldı |
 | **TOPLAM** | **10,74** | **6,28** | **6,28** | **-** | **Dönem planına uygun** |
 
-**Not:** İP-2'nin tam adam-ay değeri Şubat 2026'da tamamlanacaktır.
+**Not:** İP-2'nin kalan 4,46 adam-ay değeri Ocak-Şubat 2026'da gerçekleştirilecektir.
 
 ---
 
@@ -236,8 +175,8 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 
 | İş Paketi No | Planlanan Başlama-Bitiş | Gerçekleşen Başlama-Bitiş | Planlanan Süre (Ay) | Gerçekleşen Süre (Ay) | Sapma | Gerekçesi | Dönem İçinde Çalışılan Süre | Bu Dönem Hariç Gerçekleşme (%) | Bu Dönem Dahil Gerçekleşme (%) |
 |--------------|------------------------|---------------------------|--------------------|-----------------------|-------|-----------|---------------------------|-------------------------------|-------------------------------|
-| İP-1 | 01.10.2025 - 28.11.2025 | 01.10.2025 - 31.12.2025 | 2 | 3 | +1 ay | Backend çalışmaları devam ediyor | 3 | 0 | 85 |
-| İP-2 | 01.12.2025 - 28.02.2026 | 01.12.2025 - | 3 | 1 | - | İş paketi devam ediyor | 1 | 0 | 25 |
+| İP-1 | 01.10.2025 - 28.11.2025 | 01.10.2025 - 28.11.2025 | 2 | 2 | - | İş paketi planlandığı gibi tamamlandı | 2 | 0 | **100** |
+| İP-2 | 01.12.2025 - 28.02.2026 | 01.12.2025 - (Devam) | 3 | 1 | - | İş paketi devam ediyor | 1 | 0 | **25** |
 
 ---
 
@@ -245,9 +184,10 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 
 | Zorluk | Alınan Önlem/Çözüm | Sonuç |
 |--------|-------------------|-------|
-| Backend entegrasyonu beklenenden karmaşık çıktı | Mikro servis mimarisine geçiş kararı alındı, ek 1 ay süre | ⏳ Çözüm uygulanıyor |
-| UI/UX tasarımında kullanıcı deneyimi optimizasyonu | Iteratif tasarım süreci başlatıldı | ✓ Başarılı |
-| Steam entegrasyonu dokümantasyon eksiklikleri | Epic Games ve Unreal dokümantasyonu detaylı incelendi | ✓ Çözüldü |
+| Proje başlangıcı 3 ay ertelendi (01.07→01.10) | Tüm takvim 3 ay kaydırıldı, ekip hazırlıkları güçlendirildi | ✓ Proje başarıyla başlatıldı |
+| Backend mikro servis mimarisi karmaşıklığı | Modüler yapı ile aşamalı geliştirme stratejisi | ✓ Başarıyla tamamlandı |
+| Steam entegrasyonu dokümantasyon eksiklikleri | Epic Games ve Unreal forum araştırmaları | ✓ Çözüldü |
+| AI Behavior Tree tasarım karmaşıklığı | Akademik danışman desteği alındı, iteratif tasarım | ⏳ Devam ediyor |
 
 ---
 
@@ -256,147 +196,54 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 | Ara Çıktı | Planlanan Tarih | Gerçekleşen Tarih | Durum | Sapmalar |
 |-----------|-----------------|-------------------|-------|----------|
 | İstemci-Sunucu Temel Bağlantısının Kurulması | 28.11.2025 | 28.11.2025 | ✓ Tamamlandı | - |
-| Backend Mimarisinin Temel Yapısının Tamamlanması | 28.11.2025 | 31.12.2025 (Beklenen) | ⏳ Devam ediyor | Backend karmaşıklığı nedeniyle +1 ay |
-| UI ve Backend Bağlantısının Başlangıç Seviyesinde Tamamlanması | 28.11.2025 | 31.12.2025 (Beklenen) | ⏳ Devam ediyor | Backend'e bağlı olarak ertelendi |
+| Backend Mimarisinin Temel Yapısının Tamamlanması | 28.11.2025 | 28.11.2025 | ✓ Tamamlandı | - |
+| UI ve Backend Bağlantısının Başlangıç Seviyesinde Tamamlanması | 28.11.2025 | 28.11.2025 | ✓ Tamamlandı | - |
+| AI Davranış Sistemi (İlk Tasarım) | - | 31.12.2025 | ✓ Konsept tamamlandı | İP-2 kapsamında başlatıldı |
 
----
-
-## **SLAYT 16: PROJE DEĞİŞİKLİK BİLDİRİMİ**
-
-**Kapsam ve Süre Değişikliği:**
-- Değişiklik bulunmamaktadır
-
-**Kaynak/Bütçe Değişikliği:**
-- Değişiklik bulunmamaktadır
-
-**Personel Değişiklikleri:**
-- Dönem içinde personel değişikliği olmamıştır
-- Tüm proje ekibi aktif olarak çalışmaya devam etmektedir
-
-**Proje Başlangıç Tarihi Değişikliği:**
-- Proje başlangıç tarihi 01.07.2025'ten **01.10.2025'e ertelenmiştir**
-- Bu erteleme, proje takviminin tümünde 3 aylık kaymaya neden olmuştur
-- Yeni proje bitiş tarihi: **30.09.2026**
-
----
-
-## **SLAYT 17: AKADEMİK İŞBİRLİĞİ**
-
-**Danışmanlık Hizmetleri:**
-- **Prof. Dr. Turgay Tugay Bilgin**  
-  (Bursa Teknik Üniversitesi - Bilgisayar Mühendisliği Bölümü)
-
-**Katkı Alanları:**
-- Yapay zeka algoritmaları tasarımı
-- Dinamik düşman davranışları ve AI entegrasyonu
-- Dinamik zorluk ayarlama (Dynamic Tension) sistemleri
-- Hile önleme sistemleri (ZulaGuard)
-- Kısa süreli hafıza (Short-term memory) teknikleri
-
-**Dönem İçi İşbirliği:**
-- Düzenli teknik toplantılar
-- AI mimari tasarımı için danışmanlık
-- Literatür tarama desteği
-
----
-
-## **SLAYT 18: GELECEK DÖNEM HEDEFLERİ (2025/2)**
-
-**Bir Sonraki Dönem Planı (Ocak - Mart 2026):**
-
-**İP-1 Kapanış Faaliyetleri:**
-- Backend mimarisinin tamamlanması
-- UI/UX geliştirme son aşama
-- CMS entegrasyonu tamamlanması
-
-**İP-2 Ana Faaliyetleri:**
-- AI Behavior Tree implementasyonu
-- Karakter kontrol mekanizması geliştirme
-- Bot dövüş mekanikleri (AI Düşman Sistemi)
-- T1 ve T2 düşman AI'larının kodlanması
-- Karakter modelleme ve rigging çalışmaları
-- Navigasyon sistemi geliştirme
-
-**Ara Çıktılar:**
-- **28.02.2026:** AI Destekli Bot Yazılımı (İlk versiyon)
-- **28.02.2026:** Karakter Tasarımları
+**Dönem Sonunda Elde Edilen Çıktılar:**
+- Oyun altyapısı tamamen kuruldu
+- Network altyapısı çalışır durumda
+- Steam entegrasyonu aktif
+- AI tasarım dokümanları hazır
+- Karakter sistemleri tasarımı başladı
 
 ---
 
 ## **SLAYT 19: FİNANSAL DURUM ÖZETİ**
 
-### Bütçe Kullanımı (2025/1. Dönem)
+### Bütçe Kullanımı (2025/1. Dönem - Tamamlandı)
 
-| Gider Kalemi | Toplam Bütçe | Dönem Harcaması | Kalan | Kullanım Oranı |
-|--------------|--------------|-----------------|-------|----------------|
-| Personel | X TL | X TL | X TL | %X |
-| Danışmanlık | X TL | - | X TL | %0 |
-| Ekipman/Yazılım | X TL | X TL | X TL | %X |
-| Seyahat | X TL | - | X TL | %0 |
-| **TOPLAM** | **X TL** | **X TL** | **X TL** | **%X** |
+| Gider Kalemi | Dönem Bütçesi | Gerçekleşen | Kalan | Kullanım Oranı |
+|--------------|---------------|-------------|-------|----------------|
+| Personel (6,28 adam-ay) | X TL | X TL | - | %100 |
+| Danışmanlık | - | - | - | %0 (Sonraki dönem) |
+| Ekipman/Yazılım | - | - | - | %0 (Sonraki dönem) |
+| Seyahat | - | - | - | %0 (Sonraki dönem) |
+| **TOPLAM** | **X TL** | **X TL** | **-** | **%100** |
 
-*Bütçe kullanımı dönem planına uygun ilerlemektedir*
-
----
-
-## **SLAYT 20: PROJE YÖNETİMİ**
-
-**Dönem İçinde Yapılan Yönetim Çalışmaları:**
-
-**Risk Yönetimi:**
-- Proje risk matrisi düzenli güncellendi
-- Backend karmaşıklığı riski tespit edildi ve önlem alındı
-
-**Kaynak Yönetimi:**
-- 7 kişilik proje ekibi aktif çalıştı
-- Adam-ay dağılımı planlandığı gibi gerçekleşti
-
-**Bilgi Yönetimi:**
-- Git versiyon kontrolü aktif kullanıldı
-- Haftalık sprint toplantıları yapıldı
-- Akademik danışman koordinasyonu sağlandı
-
-**Proje Takip Araçları:**
-- Jira/Trello kullanımı
-- Haftalık ilerleme raporları
+*Dönem bütçesi planlandığı gibi kullanıldı, sapma yok*
 
 ---
 
 ## **SLAYT 21: SONUÇ**
 
 **Dönem Özeti:**
-- ✓ Proje başarıyla başlatıldı (3 ay gecikmeyle)
-- ✓ İP-1'in %85'i tamamlandı
-- ✓ İP-2'ye başarılı geçiş yapıldı
-- ✓ Teknik altyapı sağlam şekilde kuruldu
-- ✓ Ekip koordinasyonu etkili çalışıyor
+- ✓ Proje 01.10.2025'te başarıyla başlatıldı
+- ✓ İP-1 (Oyun Temeli ve Altyapı) **%100 tamamlandı**
+- ✓ İP-2'ye (Yapay Zeka, Karakter ve Bot) başarılı geçiş yapıldı (**%25 tamamlandı**)
+- ✓ Tüm ara çıktılar zamanında teslim edildi
+- ✓ Adam-ay hedefleri tutturuldu
+- ✓ Akademik danışmanlık etkili devam ediyor
 
 **Öne Çıkan Başarılar:**
-- İstemci-sunucu bağlantısı başarıyla kuruldu
-- Steam entegrasyonu tamamlandı
-- AI mimari tasarımı oluşturuldu
-- Akademik danışmanlık etkili devam ediyor
+- İstemci-sunucu bağlantısı tamamen çalışır durumda
+- Steam entegrasyonu aktif
+- Backend mikro servis mimarisi kuruldu
+- AI mimari tasarımı tamamlandı
+- Proje takvimi düzgün ilerliyor
 
-**Gelecek Dönem Odak:**
-- Backend tamamlama
-- AI implementasyonu
-- Karakter geliştirme
-
----
-
-## **SLAYT 22: TEŞEKKÜR / İLETİŞİM**
-
-**TEŞEKKÜRLER**
-
-**İletişim Bilgileri:**
-- **Firma**: MB Oyun Yazılım ve Pazarlama A.Ş.
-- **Proje Yürütücüsü**: Erdoğan Atmaca
-- **E-posta**: erdogan.atmaca@madbytegames.com
-- **Telefon**: +90 212 292 0027
-- **Adres**: Reşitpaşa Mah. Katar Cad. ARI 9 Binası No:2-61-3, Sarıyer, İstanbul
-
-[MB Oyun Logosu]
+**Gelecek Dönem Odak (2025/2: Ocak-Mart 2026):**
+- İP-2 tamamlanması (AI, Karakter, Bot sistemleri)
+- İP-3'e geçiş (Oyun Mekaniği ve Senaryo)
 
 ---
-
-Bu güncellenen outline, projenin **01.10.2025 - 31.12.2025 dönemi** için gerçek iş paketlerine göre hazırlanmıştır ve **2025/1. Dönem** raporlamasına uygundur.
