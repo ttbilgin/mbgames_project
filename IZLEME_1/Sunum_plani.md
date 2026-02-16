@@ -21,17 +21,20 @@
 
 ---
 
-## **SLAYT 2: AJANDA**
+## **SLAYT 2: AJANDA **
 
-1. Proje Kapsamı - Genel Amaç
-2. Mimari Yapı (Teknik Altyapı)
-3. 2025/1. Dönem Faaliyetleri
-4. Proje Planı ve Dönemler
-5. Dönem İş Paketleri
-6. İş Paketi Faaliyetleri (Detaylı)
-7. Dönem Adam-Ay Karşılaştırma Tablosu
-8. İş Paketi Gerçekleştirme Tablosu
-9. Proje Değişiklik Bildirimi (Varsa)
+1. Projenin Tanıtımı ve Genel Amaç
+2. Teknik Mimari Yapı ve Teknoloji Altyapısı
+3. Proje Planı, Dönemler ve Gantt Görünümü
+4. Dönem İş Paketleri Genel Bakış (İP-1, İP-2)
+5. İP-1. Oyun Temeli ve Altyapı Geliştirme Çalışmaları
+6. İP-2. Yapay Zeka, Karakter ve Bot Geliştirme Durumu
+7. Adam-Ay Gerçekleşmeleri ve İş Paketi İlerleme Tabloları
+8. Proje Değişiklikleri ve Alet.Teçhizat Durumu
+9. Ar-Ge Kazanımları ve Teknik Yenilikler
+10. Karşılaşılan Zorluklar ve Alınan Önlemler
+11. Ara Çıktılar, Finansal Durum ve Proje Yönetimi
+12. Dönem Sonuçları ve Gelecek Dönem Planı
 
 ---
 
