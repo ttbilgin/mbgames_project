@@ -1,4 +1,3 @@
----
 
 # TÜBİTAK 1501 Projesi - 2025/1. Dönem İzleme Sunumu
 ## "Yapay Zeka Destekli Çok Oyunculu Coop (İşbirlikçi) TPS Oyununun Özelleştirilmiş Unreal Engine Oyun Motorunda Prototipinin Geliştirilmesi"
