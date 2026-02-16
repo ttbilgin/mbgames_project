@@ -16,7 +16,7 @@
 
 **TÜBİTAK 1501 Projesi**  
 **Proje No:** 170055  
-**2025/1. Dönem Raporu**  
+**2025/2. Dönem Raporu**  
 **Tarih:** Ocak 2026
 
 ---
