@@ -66,7 +66,7 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 - **Geliştirme Araçları:** Rider, Visual Studio
 
 **Sistem Bileşenleri:**
-- AI Bot Sistemi (3 Katman: T1, T2, T3)
+- AI Bot Sistemi
 - Anti-Cheat Modülü (ZulaGuard)
 - Network Altyapısı
 - Backend & CMS Entegrasyonu
