@@ -148,11 +148,11 @@ Türk oyun sektörünü uluslararası alanda ön plana çıkaracak, yapay zeka d
 - Karakter Rigging
 - Karakter Animasyonları
 
-| **ÇIKTI** | **Durum** | **Hedef Tarih** |
-|-----------|---------|----------------|
-| AI Davranış Sistemi Modeli | ⏳ Başlangıç aşaması (%25) | 28.02.2026 |
-| Karakter Tasarımları | ⏳ Konsept aşaması (%20) | 28.02.2026 |
-| Demo Bot Versiyonu | ⏳ Planlama aşaması (%15) | 28.02.2026 |
+| **ÇIKTI** | **Durum** | 
+|-----------|---------|
+| AI Davranış Sistemi Modeli | ⏳ Başlangıç aşaması (%25) |
+| Karakter Tasarımları | ⏳ Konsept aşaması (%20) |
+| Demo Bot Versiyonu | ⏳ Planlama aşaması (%15) |
 
 **İş Paketi Durumu:** %25 Tamamlandı (İlk ay çalışmaları)
 
